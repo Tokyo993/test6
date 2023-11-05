@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "npx mocha --reporter spec"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  },
+  "dependencies": {
+    "chai": "^4.3.10",
+    "moch": "^0.0.1",
+    "mocha": "^10.2.0"
+  }
+}
